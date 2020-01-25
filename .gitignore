@@ -57,3 +57,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.log
+*.tlog
+*.idb
+factory/FactoryTest/Debug/vc141.pdb
